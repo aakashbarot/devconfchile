@@ -44,6 +44,7 @@ sup {
 	padding: 0 0 0 1px;
 	text-transform: none;
 }
+
 /* Buttons */
 .btn {
 	border: none;
@@ -93,7 +94,9 @@ sup {
 	padding: 12px 19px 14px;
 }
 
-
+.btn.btn-large-registrate {
+	padding: 22px 29px 24px;
+}
 .btn.btn-primary {
 	background-color: #EF7247;
 }
@@ -326,6 +329,7 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
 	text-transform: uppercase;
 	text-shadow: none;
 }
+
 .top-bar .navbar .nav > li:last-child > a {
 }
 .top-bar .navbar .nav > li > a:hover, .top-bar.alt .navbar .nav > li > a:hover {
