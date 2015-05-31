@@ -29,13 +29,22 @@ a:hover {
 	color: #EF7247;
 	text-decoration: none;
 }
-h1, h2 {
+h1, {
 	color: inherit;
 	font-family: 'Roboto Slab Bold';
 	font-weight: bold;
 	line-height: 40px;
 	margin: 5px 0 20px;
 	text-rendering: optimizelegibility;
+}
+h2 {
+	color: #CACBCB;
+	font-family: 'Roboto Slab Bold';
+	font-weight: bold;
+	font-size: 70px;
+	line-height: 40px;
+	margin: 5px 0 20px;
+	text-rendering: optimizelegibility;	
 }
 ul {
 	list-style-type: none;
