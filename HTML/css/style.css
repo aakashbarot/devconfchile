@@ -104,30 +104,23 @@ sup {
 
 }
 
-.btn.btn-large-registrate {
-	
-	border: none;
-	-webkit-border-radius: 8px;
-	-moz-border-radius: 8px;
-	-ms-border-radius: 8px;
-	-o-border-radius: 8px;
-	border-radius: 8px;
+.btn.btn-large-registrate {	
 	background: #48A3A6;
 	color: white;
 	font-size: 40px;
-	text-decoration: none;
-	text-shadow: none;
-	-webkit-box-shadow: none;
-	-moz-box-shadow: none;
-	box-shadow: none;
-	-webkit-transition: 0.25s;
-	-moz-transition: 0.25s;
-	-o-transition: 0.25s;
-	transition: 0.25s;
 	padding: 40px 60px;
-	-webkit-backface-visibility: hidden;
-	outline: 0;
-
+}
+.btn.btn-large-workshops {	
+	background: #48A3A6;
+	color: white;
+	font-size: 20px;
+	padding: 20px 30px;
+}
+.btn.btn-large-hackathons {	
+	background: #DA4200;
+	color: white;
+	font-size: 20px;
+	padding: 20px 30px;
 }
 .btn.btn-primary {
 	background-color: #EF7247;
@@ -470,6 +463,17 @@ nav select {
 	-moz-box-shadow: none;
 	box-shadow: none;
 }
+#hackathons {
+	background: url(../images/backgrounds/gam-noche.jpg) center center no-repeat fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-color: #4C5D67;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
 #sponsors {
 	background: #4F93B5;
 }
@@ -746,7 +750,7 @@ a.icon-wrap.small {
 	width: 40px;
 }
 .icon-wrap.small.color4:hover {
-	background: #48A3A6;
+	
 }
 /* Social Icons */
 .social a.icon-wrap i {
