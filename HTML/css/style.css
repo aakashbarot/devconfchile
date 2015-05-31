@@ -287,7 +287,7 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
 }
 .top-bar .logo span {
 	color: #FFFFFF;
-	font-size: 32px;
+	font-size: 30px;
 	font-weight: 700;
 	line-height: 20px;
 	padding: 0px;

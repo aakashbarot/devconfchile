@@ -263,7 +263,7 @@ if (!class_exists('Contact')) {
              * Set the receiver e-mail of the mail
              * CHANGE IT ACCORDING TO NEEDS
              */
-            $this->_receiver        = 'yourname@yourdomain.com';
+            $this->_receiver        = 'devconfchile@gmail.com';
             /*
              * initialize the allowed html tags which user/visitor can
              * use to send a html formatted message
@@ -355,7 +355,7 @@ if (!class_exists('Contact')) {
              * initiate auto reply system name and e-mail
              * Change it accodting to your needs
              */
-            $this->_autoResponder   =   'noreply@yourdomain.com';
+            $this->_autoResponder   =   'devconfchile@gmail.com';
             
             /*
              * Initialize plain mail content template
